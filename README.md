@@ -9,6 +9,8 @@ Week 2 Act 1: Handling Input, physics bodies, collision detection.
 
 
 Week 2 Act 2: Level Design
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9273b29f-fda7-4336-b65d-49a06befa740" />
+
 
 
 
