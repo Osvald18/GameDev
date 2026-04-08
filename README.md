@@ -14,9 +14,13 @@ Week 2 Act 2: Level Design
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9273b29f-fda7-4336-b65d-49a06befa740" />
 
-Week 3: Act 2: AI & Enemies
+Week 3 Act 1: UI / UX Audio
+
+Week 3 Act 2: AI & Enemies
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/455f2ee2-22d8-4842-b228-97354fd75543" />
+
+Week 4 Activity 1: Multiplayer
 
 
 
