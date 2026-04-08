@@ -1,5 +1,7 @@
 # GameDev
 
+Week 1 Act 1: 
+
 Week 2 Act 1: Handling Input, physics bodies, collision detection.
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d7f839f1-f67b-4584-9e74-4c3337b08d2d" />
@@ -11,6 +13,10 @@ Week 2 Act 1: Handling Input, physics bodies, collision detection.
 Week 2 Act 2: Level Design
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9273b29f-fda7-4336-b65d-49a06befa740" />
+
+Week 3: Act 2: AI & Enemies
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/455f2ee2-22d8-4842-b228-97354fd75543" />
 
 
 
