@@ -1,6 +1,6 @@
 # GameDev
 
-Week 1 Act 1: 
+Week 1 Act 1: Simple Scene with a moving node
 
 Week 2 Act 1: Handling Input, physics bodies, collision detection.
 
