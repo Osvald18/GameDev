@@ -20,19 +20,21 @@ Description: Added initial game terrain. Will Improve game terrain by adding mor
 
 Week 3 Act 1: UI / UX Audio
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14e167ba-1f6d-4e3e-9b37-aa8f38c0621e" />
-
 Description: Added main character health bar to track player health and also sounds when player walk, attacks enemy, and etc..
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14e167ba-1f6d-4e3e-9b37-aa8f38c0621e" />
+
 Week 3 Act 2: AI & Enemies
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/455f2ee2-22d8-4842-b228-97354fd75543" />
-
 
 Description: Added enemies on land.When enemy detect player by its detection area, it will chase and attack player. Enemy also 
              respawns and becomes more aggresive as game went on.
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/455f2ee2-22d8-4842-b228-97354fd75543" />
+
 Week 4 Activity 1: Multiplayer
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/76c93cfa-d80e-463a-a826-0e2247830f6b" />
+
 
 
 
