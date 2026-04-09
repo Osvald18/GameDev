@@ -14,16 +14,15 @@ Description: Added collision detection, animation, and movement of the game main
 
 Week 2 Act 2: Level Design
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9273b29f-fda7-4336-b65d-49a06befa740" />
-
 Description: Added initial game terrain. Will Improve game terrain by adding more trees, grass, and, etc..
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9273b29f-fda7-4336-b65d-49a06befa740" />
 
 Week 3 Act 1: UI / UX Audio
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14e167ba-1f6d-4e3e-9b37-aa8f38c0621e" />
 
 Description: Added main character health bar to track player health and also sounds when player walk, attacks enemy, and etc..
-
 
 Week 3 Act 2: AI & Enemies
 
