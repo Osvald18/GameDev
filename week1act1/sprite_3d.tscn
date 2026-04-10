@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://c5veulgt15gpe"]
+
+[ext_resource type="Script" uid="uid://dqrwc8ybp66hx" path="res://sub_viewport.gd" id="1_7s03t"]
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_7s03t"]
+viewport_path = NodePath("SubViewport")
+
+[node name="Sprite3D" type="Sprite3D" unique_id=1836723956]
+texture = SubResource("ViewportTexture_7s03t")
+
+[node name="SubViewport" type="SubViewport" parent="." unique_id=842205584]
+transparent_bg = true
+script = ExtResource("1_7s03t")
+
+[node name="Label" type="Label" parent="SubViewport" unique_id=1454438495]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Hello World!"
