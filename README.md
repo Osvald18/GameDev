@@ -2,6 +2,10 @@
 
 Week 1 Act 1: Simple Scene with a moving node
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c529daaa-659c-4018-a5e0-e6f45c5feb2e" />
+
+Description: Simple Hello World 3d text
+
 Week 2 Act 1: Handling Input, physics bodies, collision detection.
 
 Description: Added collision detection, animation, and movement of the game main character.
