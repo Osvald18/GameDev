@@ -7,7 +7,7 @@
 radius = 12.0415945
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_xxnat"]
-radius = 72.02777
+radius = 296.08276
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_e1ltt"]
 atlas = ExtResource("1_7k104")
@@ -383,6 +383,14 @@ animations = [{
 "speed": 5.0
 }]
 
+[sub_resource type="Animation" id="Animation_4gyqm"]
+resource_name = "enemy_shock"
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_qi2p4"]
+_data = {
+&"enemy_shock": SubResource("Animation_4gyqm")
+}
+
 [node name="enemy" type="CharacterBody2D" unique_id=965592657]
 script = ExtResource("1_4gyqm")
 
@@ -390,8 +398,6 @@ script = ExtResource("1_4gyqm")
 shape = SubResource("CircleShape2D_4gyqm")
 
 [node name="detection_area" type="Area2D" parent="." unique_id=508602623]
-collision_layer = 3
-collision_mask = 3
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="detection_area" unique_id=620176339]
 shape = SubResource("CircleShape2D_xxnat")
@@ -403,3 +409,7 @@ frame = 5
 frame_progress = 0.17486203
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=2023998149]
+libraries/ = SubResource("AnimationLibrary_qi2p4")
+
+[connection signal="body_entered" from="detection_area" to="." method="_on_detection_area_body_entered"]
+[connection signal="body_exited" from="detection_area" to="." method="_on_detection_area_body_exited"]
